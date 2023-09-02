@@ -1,6 +1,3 @@
-
-# Online Python - IDE, Editor, Compiler, Interpreter
-
 a = int(input("Enter the first number (a): "))
 b = int(input("Enter the second number (b): "))
 
